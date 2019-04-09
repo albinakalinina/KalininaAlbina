@@ -1,7 +1,0 @@
-M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task05\bin\Debug\Task05.exe.config
-M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task05\bin\Debug\Task05.exe
-M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task05\bin\Debug\Task05.pdb
-M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task05\obj\Debug\Task05.csproj.CoreCompileInputs.cache
-M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task05\obj\Debug\Task05.exe
-M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task05\obj\Debug\Task05.pdb
-M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task05\obj\Debug\Task05.csprojAssemblyReference.cache

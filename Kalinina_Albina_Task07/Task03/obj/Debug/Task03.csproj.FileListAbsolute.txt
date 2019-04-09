@@ -1,9 +1,0 @@
-J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\bin\Debug\Task03.exe.config
-J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\bin\Debug\Task03.exe
-J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\bin\Debug\Task03.pdb
-J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\obj\Debug\Task03.csprojResolveAssemblyReference.cache
-J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\obj\Debug\Task03.exe
-J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\obj\Debug\Task03.pdb
-E:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\bin\Debug\Task03.exe.config
-E:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\obj\Debug\Task03.exe
-E:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task03\obj\Debug\Task03.pdb
