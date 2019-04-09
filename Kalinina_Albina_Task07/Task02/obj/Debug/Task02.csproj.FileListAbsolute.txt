@@ -1,0 +1,13 @@
+J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\bin\Debug\Task02.exe.config
+J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\bin\Debug\Task02.exe
+J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\bin\Debug\Task02.pdb
+J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\obj\Debug\Task02.csprojResolveAssemblyReference.cache
+J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\obj\Debug\Task02.exe
+J:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\obj\Debug\Task02.pdb
+F:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\bin\Debug\Task02.exe.config
+F:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\bin\Debug\Task02.exe
+F:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\bin\Debug\Task02.pdb
+F:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\obj\Debug\Task02.csprojAssemblyReference.cache
+F:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache
+F:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\obj\Debug\Task02.exe
+F:\Выполненные задания EPAM\Kalinina_Albina_Task07\Task02\obj\Debug\Task02.pdb

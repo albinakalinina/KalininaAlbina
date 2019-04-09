@@ -1,0 +1,6 @@
+M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task03\bin\Debug\Task03.exe.config
+M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task03\bin\Debug\Task03.exe
+M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task03\bin\Debug\Task03.pdb
+M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task03\obj\Debug\Task03.exe
+M:\Выполненные задания EPAM\Kalinina_Albina_Task01\Task03\obj\Debug\Task03.pdb

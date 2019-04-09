@@ -1,0 +1,12 @@
+E:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\bin\Debug\Task04.exe.config
+E:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\obj\Debug\Task04.csprojResolveAssemblyReference.cache
+E:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\bin\Debug\Task04.exe
+E:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\bin\Debug\Task04.pdb
+E:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\obj\Debug\Task04.exe
+E:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\obj\Debug\Task04.pdb
+J:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\bin\Debug\Task04.exe.config
+J:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\obj\Debug\Task04.exe
+J:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\obj\Debug\Task04.pdb
+J:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\bin\Debug\Task04.exe
+J:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\bin\Debug\Task04.pdb
+J:\Выполненные задания EPAM\Kalinina_Albina_Task03\Task04\obj\Debug\Task04.csprojResolveAssemblyReference.cache
